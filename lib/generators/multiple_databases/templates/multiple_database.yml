@@ -1,0 +1,17 @@
+# databases:
+#   database1: # This would be first database
+#     development:
+#       adapter: mysql2
+#       host: localhost
+#       database: dev1
+#       password: root
+#       username: root
+#       encoding: utf8
+#   database2: # This would be second database
+#     development:
+#       adapter: mysql2
+#       host: localhost
+#       encoding: utf8
+#       database: dev
+#       password: root
+#       username: root
